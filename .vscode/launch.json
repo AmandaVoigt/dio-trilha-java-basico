@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatadorCepEx",
+            "request": "launch",
+            "mainClass": "FormatadorCepEx",
+            "projectName": "dio-trilha-java-basico_d17c2999"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe2",
+            "request": "launch",
+            "mainClass": "AboutMe2",
+            "projectName": "dio-trilha-java-basico_d17c2999"
+        },
+        {
+            "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "ExemploWhile",
+            "projectName": "dio-trilha-java-basico_d17c2999"
+        },
+        {
+            "type": "java",
             "name": "ExemploBreakContinue",
             "request": "launch",
             "mainClass": "ExemploBreakContinue",
