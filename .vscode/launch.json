@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BancoSimulador",
+            "request": "launch",
+            "mainClass": "BancoSimulador",
+            "projectName": "dio-trilha-java-basico_d17c2999"
+        },
+        {
+            "type": "java",
+            "name": "SimulacaoBancaria",
+            "request": "launch",
+            "mainClass": "SimulacaoBancaria",
+            "projectName": "dio-trilha-java-basico_d17c2999"
+        },
+        {
+            "type": "java",
             "name": "FormatadorCepEx",
             "request": "launch",
             "mainClass": "FormatadorCepEx",
